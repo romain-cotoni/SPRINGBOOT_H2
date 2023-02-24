@@ -1,0 +1,5 @@
+fr\portfolio\helloapirest\model\Employees.class
+fr\portfolio\helloapirest\HelloapirestApplication.class
+fr\portfolio\helloapirest\controller\EmployeesController.class
+fr\portfolio\helloapirest\repository\EmployeesRepository.class
+fr\portfolio\helloapirest\service\EmployeesService.class
